@@ -1,0 +1,5 @@
+app\FinanceUI.class
+app\App.class
+app\Transaction.class
+app\Database.class
+app\TransactionDAO.class
