@@ -41,13 +41,17 @@ git clone https://github.com/Anuj-Singh-05/PersonalFinanceManager.git
 # Navigate into the project folder
 cd PersonalFinanceManager
 
+# Run the application
+mvn exec:java -Dexec.mainClass="app.App"
+```
+
+---
+
 📜 License
 
 This project is licensed under the MIT License — you’re free to use, modify, and share it with attribution.
-See the LICENSE
- file for more details.
-# Compile the project
-mvn clean compile
-# Run the application
-mvn exec:java -Dexec.mainClass="app.App"
+See the LICENSE file for more details.
+
+---
+
 
